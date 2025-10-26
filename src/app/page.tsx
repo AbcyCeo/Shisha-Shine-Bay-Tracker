@@ -361,3 +361,6 @@ export default function Page() {
   );
 }
 TSX
+<div className="text-right text-xs text-gray-500 mt-6">
+  ®️2025 — Developers: corporate@whkauto.com
+</div>
